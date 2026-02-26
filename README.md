@@ -1,16 +1,27 @@
-## Hi there 👋
+💡 Building, breaking, and learning — one project at a time.
 
-<!--
-**meghashri15/meghashri15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Megha Shri👋
 
-Here are some ideas to get you started:
+🎓 3rd Year Information Science & Engineering Student  
+🌐 Aspiring Web Developer with a curiosity for how ideas become interactive digital experiences  
+💻 Actively exploring Web Development and building projects to strengthen my fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Currently Learning
+- HTML, CSS & JavaScript
+- Frontend development fundamentals
+- Git & GitHub for version control
+- Problem-solving and logical thinking
+
+
+---
+
+## 🎯 Current Goal
+To continuously improve my web development skills and secure an internship where I can learn, contribute, and grow as a developer.
+
+---
+
+## ✨ About Me
+I enjoy understanding how things work behind the scenes and transforming ideas into functional web applications.  
+I’m committed to consistent learning and building meaningful projects along the way.
